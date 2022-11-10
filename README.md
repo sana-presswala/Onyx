@@ -1,2 +1,0 @@
-# Onyx
- online shopping portal
